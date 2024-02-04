@@ -15,4 +15,3 @@
 <p>This is a sample "Hello, World!" application for 2028 April Batch.</p>
 </body>
 </html>
-
